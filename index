@@ -1,0 +1,165 @@
+<!DOCTYPE HTML>
+<!--
+	Big Picture by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>All about Hannah </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<h1>All about Shyrelle Hannah G. Obien</h1>
+				<nav>
+					<ul>
+						<li><a href="#intro">Who I Am</a></li>
+						<li><a href="#one">My Principle</a></li>
+						<li><a href="#two">Skills</a></li>
+						<li><a href="#work">Portraits</a></li>
+						<li><a href="#contact">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Intro -->
+			<section id="intro" class="main style1 dark fullscreen">
+ 			
+							<div class="content">
+					<header>
+						<h2>Hey, I'm Hannah!</h2>
+					</header>
+					 I'am 19 years old and I'am currently taking Bachelor of Science in Nursing in Mariano Marcos State University, Level 1 from section C. To know more about me, check the video below.
+
+
+					
+					<p> <strong> Welcome to My Personal Website!</strong></p>
+
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+		<!-- One -->
+
+<iframe width="1920" height="1080"
+src ="https://www.youtube.com/embed/LuFb16PHPko"class="image fit">
+</iframe>
+		
+
+			<section id="one" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+
+				<header>
+						<h2>My Principle in Life</h2>
+					</header>
+
+
+					<p>I'm turning 20 this year, so I altered my principles and plans in life into a more matured decision; as I should. One of which is to focus on myself and not compare to others. This will therefore help me develop my personal growth in order to attain a life I'am aiming. </p>
+
+
+				</div>
+				<a href="#two" class="button style2 down anchored">Next</a>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>My Skills</h2>
+					</header>
+					<p>Growing up, I was exposed to alot of opportunities to learn music, thus I consider myself as someone who is musically inclined. I play various musical instruments such as piano, guitar, ukulele, kalimba, and now learning how to play bass guitar. Morever, I was also a part several bands before.</p>
+				</div>
+				<a href="#work" class="button style2 down anchored">Next</a>
+			</section>
+
+		<!-- Work -->
+			<section id="work" class="main style3 primary">
+				<div class="content">
+					<header>
+						<h2>Hey, that's me!</h2>
+						<p>Taking pictures of myself helped me alot to gain my confidence even with so much flaws in my body. Here is one! :)</p>
+					</header>
+
+					<!-- Gallery  -->
+						<div class="gallery">
+							<article class="from-left">
+								<a href="images/fulls/01.jpg" class="image fit"><img src="images/pic/1.jpg" title="The Anonymous Red" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/02.jpg" class="image fit"><img src="images/pic/2.jpg" title="Airchitecture II" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/03.jpg" class="image fit"><img src="images/pic/3.jpg" title="Air Lounge" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/04.jpg" class="image fit"><img src="images/pic/4.jpg" title="Carry on" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/05.jpg" class="image fit"><img src="images/pic/5.jpg" title="The sparkling shell" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/06.jpg" class="image fit"><img src="images/pic/6.jpg" title="Bent IX" alt="" /></a>
+							</article>
+						</div>
+
+				</div>
+			</section>
+
+		<!-- Contact -->
+			<section id="contact" class="main style3 secondary">
+				<div class="content">
+					<header>
+						<h2>Say Hello.</h2>
+						<p>If you want to ask something, feel free to drop them below!</p>
+					</header>
+					<div class="box">
+						<form method="post" action="#">
+							<div class="fields">
+								<div class="field half"><input type="text" name="name" placeholder="Name" /></div>
+								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
+								<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
+							</div>
+							<ul class="actions special">
+								<li><input type="submit" value="Send Message" /></li>
+							</ul>
+						</form>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+
+				<!-- Icons -->
+					<ul class="icons">
+						<li><a href="https:twitter.com/annyeohannaseyo" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/hannah.obien" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https:instagram.com/annyeohannaseyo" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						
+					</ul>
+
+				<!-- Menu -->
+					
+
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
